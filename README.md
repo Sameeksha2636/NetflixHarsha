@@ -4,20 +4,6 @@
 We Create Netflix Landing Page Using HTML,CSS and Javascript 
 
 
-## Authors
-
-- [@najeebahmad07](https://github.com/najeebahmad07e)
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://najeebahmad07.github.io/najeebportfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najeeb-ahmad-b40514257/)
- 
-
-
-## 🚀 About Me
-Hi 👋, I'm Najeeb Ahmad !Proficient in front-end & Back-end Technology 😊
-
 
 ## Screenshots
 
